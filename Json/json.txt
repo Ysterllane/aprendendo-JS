@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Object One",
+        "preco": 1000,
+        "autor": "Ysterllane",
+        "quantidade": "infinity",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Object Two",
+        "preco": 3000,
+        "autor": "Yster",
+        "quantidade": null,
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Object Three",
+        "preco": 1000000,
+        "autor": "Kitty",
+        "quantidade": "A lot",
+        "categoria": "full stack"
+    }
+]
